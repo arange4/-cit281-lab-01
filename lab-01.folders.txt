@@ -1,0 +1,12 @@
+total 0
+-rw-r--r-- 1 aidanrange aidanrange  0 Apr 14 19:57 lab-01-folders.txt
+-rw-r--r-- 1 aidanrange aidanrange  0 Apr 14 18:55 node
+drwxr-xr-x 1 aidanrange aidanrange 68 Apr 14 19:57 p1
+drwxr-xr-x 1 aidanrange aidanrange  0 Apr 14 17:27 p2
+drwxr-xr-x 1 aidanrange aidanrange  0 Apr 14 17:35 p3
+drwxr-xr-x 1 aidanrange aidanrange  0 Apr 14 17:35 p4
+drwxr-xr-x 1 aidanrange aidanrange  0 Apr 14 17:35 p5
+drwxr-xr-x 1 aidanrange aidanrange  0 Apr 14 17:35 p6
+drwxr-xr-x 1 aidanrange aidanrange  0 Apr 14 17:35 p7
+drwxr-xr-x 1 aidanrange aidanrange  0 Apr 14 17:35 p8
+z
